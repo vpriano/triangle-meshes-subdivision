@@ -1,3 +1,6 @@
 README
 ===========================
-The program reads a file of basic closed triangle meshes. The source code implements loop subdivision, which divides the surface into a smaller and smoother surface. The 3-D object is projected onto a 2-D plane. The 'T/t' key toggles between a top view, side view, and front view of the mesh. The 'L/l' key subdivides the mesh. The program restricts the level of subdivisions into three refinement stages. After the third refinement stage, the mesh reverts to its original shape.
+The program reads a file of basic closed triangle meshes. The source code implements loop subdivision, which divides the surface into a smaller and smoother surface. The 3-D object is projected onto a 2-D plane. 
+
+The 'T/t' key toggles between a top view, side view, and front view of the mesh. 
+The 'L/l' key subdivides the mesh. The program restricts the level of subdivisions into three refinement stages. After the third refinement stage, the mesh reverts to its original shape.
